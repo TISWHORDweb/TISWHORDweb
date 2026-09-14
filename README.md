@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Batimehin Emmanuel 👋
 
-<!--
-**TISWHORDweb/TISWHORDweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Engineer
 
-Here are some ideas to get you started:
+I build scalable web applications, APIs, and digital products with a
+focus on clean architecture, reliable backend systems, and polished
+user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building and shipping products across education, fintech, HealthTech
+and business platforms.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: emmanuelbatimehin.netlify.app
+- 💼 LinkedIn: https://linkedin.com/in/batimehin-emmanuel-95b466222
+- 🐦 X: [@TISWHORD13]
+
+---
+
+> Building useful software, one product at a time.
